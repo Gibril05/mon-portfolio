@@ -7,3 +7,6 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
     <App />
 );
+
+// Modification du logo (apparaissant sur la page d'accueil)
+const logotext = "Gib ' Z #10"; // Remplace "Ton Prénom" par ton prénom ou nom
